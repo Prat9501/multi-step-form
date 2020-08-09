@@ -1,4 +1,4 @@
-![](multi-step-form.mov)
+![](multi-step-form.gif)
 
 - Multi step form in React using React States and Contexts. Used the Animator for forms changing effect.
 - To run the project:
